@@ -20,7 +20,6 @@ let car = null;            // Null
 let person = { name: "ayush", age: 25 }; // Object
 console.log(typeof name); // string
 console.log(typeof age);  // number
-
 console.log(typeof isStudent);  // boolean
 console.log(typeof score);      // undefined
 console.log(typeof car);        // object
